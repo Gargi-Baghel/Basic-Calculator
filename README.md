@@ -10,4 +10,5 @@ The project focuses on core front-end development principles, including:
 - Interactive functionality using vanilla JavaScript
 
 This calculator is ideal for learning and demonstrating basic DOM manipulation and event handling in JavaScript. It works entirely in the browser with no dependencies or backend required.
+
 📦 Installation To run this project locally: -simply open index.html in your browser.
