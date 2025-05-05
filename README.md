@@ -11,4 +11,4 @@ The project focuses on core front-end development principles, including:
 
 This calculator is ideal for learning and demonstrating basic DOM manipulation and event handling in JavaScript. It works entirely in the browser with no dependencies or backend required.
 
-📦 Installation To run this project locally: -simply open index.html in your browser.
+To run this project locally: -simply open index.html in your browser.
